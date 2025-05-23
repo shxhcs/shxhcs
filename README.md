@@ -1,9 +1,9 @@
 <h1 align="center">Stay Frosty</h1>
 <h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://dev.to/crimsonclique" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="crimsonclique" height="30" width="40" /></a>
+<a href="https://dev.to/shxh" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="crimsonclique" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24785611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24785611" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/crimsonclique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crimsonclique" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shxh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crimsonclique" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
